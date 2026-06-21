@@ -197,3 +197,16 @@ Koleksi referensi proyek yang pernah digunakan: tools, AI, framework, database, 
 > **Last updated:** 21 Juni 2026  
 > **Maintained by:** EllaClaw 🦀  
 > **Note:** Kalau ada repo baru yang dikunjungi, langsung ditambahkan ke sini.
+
+---
+
+## 🎨 Design References
+
+Source: [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+Koleksi DESIGN.md referensi UI/UX dari 74 brand ternama.
+
+### Daftar Brand
+
+airbnb, airtable, apple, binance, bmw, bmw-m, bugatti, cal, claude, clay, clickhouse, cohere, coinbase, composio, cursor, deepseek, design, duolingo, etsy, everlane, fin, github, gitlab, glassdoor, google, grammarly, gumroad, hey, hugging-face, imessage, imgur, instacart, intercom, invision, linear, linktree, linkedin, lob-ste, loom, lyft, medium, messenger, microsoft, monzo, netflix, notion, openai, perplexity, pinboard, pinterest, plex, product-hunt, ramp, raycast, reddit, remote-ok, salesforce, shopify, signal, skype, slack, snapchat, spotify, square, strava, stripe, superhuman, tamagotchi, tinder, trello, uber, venmo, vercel, vsco, warp, whatsapp, wikipedia, yelp, youtube, zoom
+
+> 📁 File DESIGN.md ada di folder `design-md/` — hasil clone dari `VoltAgent/awesome-design-md`
