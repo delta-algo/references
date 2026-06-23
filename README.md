@@ -8,6 +8,9 @@ Koleksi referensi proyek yang pernah digunakan: tools, AI, framework, database, 
 
 ## 🧠 AI & Coding Agents
 
+### 📋 [Claude Code Adoption](https://github.com/delta-algo/claude-code-adoption)
+Analisa source code leak Claude Code Anthropic (31 Maret 2026) + Adopsi Plan Mode & Team Orchestration ke OpenClaw. 56 tools, 101 commands, 36 folder dianalisa. Template blueprint + framework multi-agent diadopsi.
+
 | Repo | Stars | Deskripsi | Status |
 |:-----|:-----:|:----------|:-------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ | OpenClaw Gateway — self-hosted AI assistant | 🦀 **Sistem utama** |
