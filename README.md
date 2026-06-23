@@ -8,6 +8,9 @@ Koleksi referensi proyek yang pernah digunakan: tools, AI, framework, database, 
 
 ## 🧠 AI & Coding Agents
 
+### 🏗️ [EllaClaw Core](https://github.com/delta-algo/ella-claw-core)
+Blueprint agen AI mandiri — penerus OpenClaw. Arsitektur 6 layer (Model, Tools, Memory, Orchestration, Channels, Integrations). Roadmap 4 fase. Gabungan kemampuan OpenClaw + Claude Code + Qwen. Dibangun sebagai antisipasi OpenClaw berbayar.
+
 ### 📋 [Claude Code Adoption](https://github.com/delta-algo/claude-code-adoption)
 Analisa source code leak Claude Code Anthropic (31 Maret 2026) + Adopsi Plan Mode & Team Orchestration ke OpenClaw. 56 tools, 101 commands, 36 folder dianalisa. Template blueprint + framework multi-agent diadopsi.
 
